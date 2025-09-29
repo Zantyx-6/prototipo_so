@@ -23,6 +23,8 @@ LIBRERIAS:
 - tqdm
   - pip install tqdm.
 
+EJECUCION
+- python main.py
 
 ### Prerrequisitos
 - Python 3.8 o superior
@@ -43,4 +45,5 @@ cd prototipo-so
 # Ejecutar el sistema
 
 python main.py
+
 
