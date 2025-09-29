@@ -29,6 +29,7 @@ EJECUCION
 ### Prerrequisitos
 - Python 3.8 o superior
 - Git (para clonar el repositorio)
+- Visual Studios Code
 
 ### Diagrama del Prototipo de SO
 
@@ -45,5 +46,6 @@ cd prototipo-so
 # Ejecutar el sistema
 
 python main.py
+
 
 
