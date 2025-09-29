@@ -66,12 +66,3 @@ cd prototipo-so
 # Ejecutar el sistema
 
 python main.py
-
-
-
-
-
-
-
-
-
