@@ -14,14 +14,15 @@ Proyecto desarrollado para la asignatura Sistemas Operativos del 5° semestre de
 ## Instalación y Ejecución
 
 LIBRERIAS:
+
 📍 colorama
-  - pip install colorama.
+    - pip install colorama.
   
 📍 pyfiglet
-  - pip install pyfiglet.
+    - pip install pyfiglet.
   
 📍 tqdm
-  - pip install tqdm.
+    - pip install tqdm.
 
 EJECUCION
 ⚙️ python main.py
@@ -46,6 +47,7 @@ cd prototipo-so
 # Ejecutar el sistema
 
 python main.py
+
 
 
 
