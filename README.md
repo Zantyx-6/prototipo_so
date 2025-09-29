@@ -14,17 +14,17 @@ Proyecto desarrollado para la asignatura Sistemas Operativos del 5° semestre de
 ## Instalación y Ejecución
 
 LIBRERIAS:
-- colorama
+📍 colorama
   - pip install colorama.
   
-- pyfiglet
+📍 pyfiglet
   - pip install pyfiglet.
   
-- tqdm
+📍 tqdm
   - pip install tqdm.
 
 EJECUCION
-- python main.py
+⚙️ python main.py
 
 ### Prerrequisitos
 - Python 3.8 o superior
@@ -46,6 +46,7 @@ cd prototipo-so
 # Ejecutar el sistema
 
 python main.py
+
 
 
 
