@@ -9,7 +9,25 @@ Proyecto desarrollado para la asignatura Sistemas Operativos del 5° semestre de
 ## Arquitectura del Sistema
 ![WhatsApp Image 2025-09-29 at 11 15 02 AM](https://github.com/user-attachments/assets/b38f5950-5612-4216-befb-7a0905d7556c)
 
+## 📌 Características principales
+✔️ Construido por capas (no modular).
+✔️ Interfaz de usuario con un Shell interactivo.
+✔️ Simulación de:
 
+- Gestión de procesos
+
+- Gestión de memoria
+
+- Gestión de archivos
+
+Ejecución de ciclos de CPU (hardware simulado)
+✔️ Implementado en Python puro, fácil de ejecutar en cualquier sistema operativo.
+
+## Diagrama de Interconexión
+El sistema está organizado en capas jerárquicas:
+
+Flujo de interacción:
+    Usuario (Shell) → Interface → Kernel → Managers/Hardware
 
 ## Instalación y Ejecución
 
@@ -48,6 +66,7 @@ cd prototipo-so
 # Ejecutar el sistema
 
 python main.py
+
 
 
 
